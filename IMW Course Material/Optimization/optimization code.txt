@@ -1,3 +1,0 @@
-optimization code
-
-https://colab.research.google.com/drive/1mo3kCC9BW7odn_ROJwsiGrfWh447XLJv?usp=sharing
